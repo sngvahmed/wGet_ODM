@@ -1,5 +1,9 @@
-/target
-.project
-.classpath
-/.idea
-/.setting
+/target/
+/.project
+.classpath/
+/.idea/
+/.setting/
+*.orig
+*.swp
+*~
+*.~*#
